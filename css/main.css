@@ -1,0 +1,76 @@
+body {
+	background-color: #4169E1;
+}
+
+form {
+	background-color: white;
+	width: 400px;
+	padding-left: 40px;
+	padding-right: 40px;
+	text-align: left;
+	margin: 0 auto;
+	margin-top: 30px;
+	border-radius: 5px;
+}
+
+fieldset {
+	border:0px;
+}
+
+img {
+	display: block;
+	margin: auto;
+	height: 35px;
+	margin-top: 15px
+}
+
+input {
+	width: 320px;
+	padding: 15px;
+	border: 2px solid gray;
+	text-align: left;
+	display: block;
+	margin-bottom: 20px;
+}
+
+label {
+	text-align: left;
+}
+button {
+	width: 320px;
+	padding: 15px;
+	border: 2px solid gray;
+	background-color: #4CAF50;
+	color: white;
+	display: block;
+	margin: auto;
+	font-size: 30px
+
+}
+
+legend {
+	font-size: 40px;
+	color: grey;
+	padding-top: 30px;
+	margin-bottom: 50px;
+	text-align: center;
+}
+
+.already-have {
+	text-align: center;
+	color:white;
+	margin-top: 20px;
+}
+
+.already-have a {
+	color: white;
+}
+
+.forgot a {
+	color:gray;
+}
+.forgot {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
